@@ -139,3 +139,20 @@ else:
                                 print('d is big')
                         else:
                                 print('e is big')
+
+# this topic is called ledder if
+marks= int(input('enter a number:'))
+p = [33]
+
+if(marks>90):
+        print('You got grade A')
+elif(marks>75):
+        print('You got grade B')
+elif(marks>60):
+        print('You got grade C')
+elif(marks>45):
+        print('You got grade D')
+elif(marks>33):
+        print('You got grade E')
+elif(marks<33):
+        print('You got grade F, You are failed.')
