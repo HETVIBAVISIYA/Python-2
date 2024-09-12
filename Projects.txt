@@ -1,0 +1,68 @@
+Project 1: Number Guessing Game
+{
+  Objective: Create a simple game where the computer picks a random number, and the user tries to guess it.
+
+  Project Requirements:
+    - The program will generate a random number between 1 and 20.
+    - The user will have 5 chances to guess the number.
+    - After each guess, the program will tell the user if the guess is too high, too low, or correct.
+    - If the user guesses the number correctly within the 5 tries, display a success message.
+    - If the user fails to guess the number after 5 tries, reveal the correct number.
+    - Make sure to use while or for loops and if statements to handle the logic.
+
+
+  Example Flow:
+
+  Welcome to the Number Guessing Game!
+  I am thinking of a number between 1 and 20.
+
+  You have 5 tries to guess it.
+  Guess #1: 10
+  Too low!
+  Guess #2: 15
+  Too high!
+  Guess #3: 12
+  Correct! You guessed the number in 3 tries.
+  
+  
+  
+  - This project is simple and perfect for beginners, as it helps them practice basic concepts like
+  loops, conditionals, and random number generation.
+}
+
+Project 2: Simple Shopping List
+{
+  Objective: Create a program that allows the user to create and manage a basic shopping list.
+
+  Project Requirements:
+    - Allow the user to add items to the shopping list.
+    - Provide an option to remove items from the list.
+    - Display the current shopping list after each action.
+    - Allow the user to exit the program when they’re done.
+  
+  
+  
+  Example Flow:
+
+  Welcome to the Shopping List Manager!
+  1. Add an item
+  2. Remove an item
+  3. View list
+  4. Exit
+
+  Enter your choice: 1
+  What item do you want to add? Apples
+  Item added!
+
+  1. Add an item
+  2. Remove an item
+  3. View list
+  4. Exit
+
+  Enter your choice: 3
+  Your current shopping list: ['Apples']
+  
+  
+  - This project is simple but teaches how to work with lists, user input, and basic loops, which
+  are great fundamentals.
+}
